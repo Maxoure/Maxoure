@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maxoure
-- 👀 I’m interested in anything related to electronics especially PC components. My hobby is gaming, reading, swimming, jogging and if possible exrteme sports.
+- 👀 I’m interested in anything related to electronics especially PC components. My hobby is gaming, reading, swimming, jogging and if possible exreteme sports.
 - 🌱 I’m currently learning HTML, CSS, C#, ASP.NET Framework and soon JavaScript as well. I am one month in (1/1/2022). 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
